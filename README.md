@@ -1,9 +1,8 @@
-# Desafio-DIO-Ebook
-Para o desafio da DIO, projeto de criação de um ebook profissional do zero.
+# Desafio-DIO-Ebook - Projeto EBOOK Gerado por I.A.s
 
-Projeto EBOOK Gerado por I.A.s
+O objetivo é gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts usados estão abaixo.
 
-O objetivo é gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
+O Ebook criado tem o tema o Concurso Nacional Unificado com o Edital bloco 1 – Infraestrutura, Exatas e Engenharias - versão retificada de 17/04/2024. Para cada área do edital teremos um breve comentário sobre o assunto seguido de uma questão no formado da prova com um comentário da resposta.
 
 ##  Tecnologias utilizadas no projeto
 
